@@ -1,4 +1,4 @@
-# The Button Thought Experiment
+# Obligationism
 
 If you had a button that when pressed, caused you to instantly and painlessly disappear. While also not affecting anyone or the universe around you now or in the future in any way. Would you press that?
 
