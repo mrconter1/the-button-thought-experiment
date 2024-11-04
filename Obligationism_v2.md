@@ -8,5 +8,3 @@ How could person A rationalize B's claim of holding this position while still be
 2. B has made a cognitive or logical error and is simply mistaken.
 3. It is a temporary state.
 4. B is not being honest about their true preferences
-
-Now, that was the easy part.
