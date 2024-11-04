@@ -2,7 +2,7 @@
 
 My experience asking this question so far has been that it is somewhat controversial. So instead of trying to figure out the real answer we will simply proceed by thinking about how you could rationalize each position.
 
-How could person A rationalize B's claim of holding this position while still refuting the actual possibility of the position? From how I see it there would mainly be three categories for this:
+How could person A rationalize B's claim of holding this position while still holding that the position is impossible? From how I see it there would mainly be three categories for this:
 
 1. It is pathological, such as depression or other mental health conditions.
 2. B has made a cognitive or logical error and is simply mistaken.
